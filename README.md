@@ -1,10 +1,10 @@
 # ionic
 
 Instalar ionic y cordova
-    - npm install -g ionic@latest cordova@latest
+- npm install -g ionic@latest cordova@latest
 
 Crear proyecto Ionic
-    - ionic start MiPrimerApp <Opcioal>
+- ionic start MiPrimerApp <Opcioal>
     
     * Como Opcional es posible crear el proyecto de las siguientes maneras
         -   Tabs: Genera un proyecto simple con una interfaz de pestañas (tabs).
@@ -16,5 +16,5 @@ Crear proyecto Ionic
         -   Aws: Genera un proyecto simple con Amazon Web Service.
 
 Correr aplicacion ionic
-    - ionic serve - se debe acceder a la carpeta del proyecto
+- ionic serve - se debe acceder a la carpeta del proyecto
 
