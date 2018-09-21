@@ -1,0 +1,7 @@
+{
+  "name": "firstappionic",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
